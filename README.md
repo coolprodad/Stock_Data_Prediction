@@ -1,9 +1,9 @@
 # Stock Data Prediction
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40davidheffernan_99410%2Fusing-image-recognition-to-predict-stock-trends-e29f48147250&psig=AOvVaw0yIYgoXail_bU0WdJ4VH5M&ust=1727409095112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCv3b7a34gDFQAAAAAdAAAAABAE)![image](https://github.com/user-attachments/assets/23de4789-9781-4613-94be-47a32ce5b539)
 
 
-# Overview
+
+## Overview
 
 This project implements various financial analyses and stock market prediction techniques using historical stock data for well-known companies such as Microsoft (MSFT), JPMorgan (JPM), ExxonMobil (XOM), NextEra Energy (NEE), and Procter & Gamble (PG). The notebook performs data preprocessing, exploratory data analysis (EDA), moving average comparisons, risk and return calculations, Monte Carlo simulations, and portfolio optimization.
 
