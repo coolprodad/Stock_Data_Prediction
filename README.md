@@ -1,6 +1,8 @@
 # Stock Data Prediction
 
 
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/af9666d1-7e96-4bc7-a107-13ad185374ff">
+
 
 
 ## Overview
@@ -87,6 +89,8 @@ Using historical data, we optimize the portfolio for minimal risk by calculating
 Monte Carlo simulations predict future stock prices based on historical price movements. The simulations provide a range of possible outcomes, including the mean, max, min, and percentiles.
 
 ## Example for Microsoft (MSFT):
+
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/e0701000-2ecc-442e-8ef3-26a8a2b743f1"> 
 
 Mean: 361.10
 Max: 635.36
