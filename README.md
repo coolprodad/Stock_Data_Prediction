@@ -80,7 +80,7 @@ Using historical data, we optimize the portfolio for minimal risk by calculating
 ##### Portfolio Return: 10.93%
 ##### Portfolio Risk: 16.22%
 
-                   <img width="740" alt="image" src="https://github.com/user-attachments/assets/5ea77171-6260-4cb6-aa85-37b94eda238a">
+<t><img width="740" alt="image" src="https://github.com/user-attachments/assets/5ea77171-6260-4cb6-aa85-37b94eda238a">
 
 
 ## Monte Carlo Simulation
@@ -89,7 +89,7 @@ Monte Carlo simulations predict future stock prices based on historical price mo
 
 ## Example for Microsoft (MSFT):
 
-                     <img width="740" alt="image" src="https://github.com/user-attachments/assets/e0701000-2ecc-442e-8ef3-26a8a2b743f1"> 
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/e0701000-2ecc-442e-8ef3-26a8a2b743f1"> 
 
 Mean: 361.10
 Max: 635.36
