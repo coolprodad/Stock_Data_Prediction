@@ -78,6 +78,10 @@ Using historical data, we optimize the portfolio for minimal risk by calculating
 ##### Portfolio Return: 10.93%
 ##### Portfolio Risk: 16.22%
 
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/5ea77171-6260-4cb6-aa85-37b94eda238a">
+
+
+
 ## Monte Carlo Simulation
 
 Monte Carlo simulations predict future stock prices based on historical price movements. The simulations provide a range of possible outcomes, including the mean, max, min, and percentiles.
