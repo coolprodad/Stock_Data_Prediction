@@ -1,7 +1,7 @@
 # Stock Data Prediction
 
  
-                           <img width="678" alt="image" src="https://github.com/user-attachments/assets/af9666d1-7e96-4bc7-a107-13ad185374ff">
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/af9666d1-7e96-4bc7-a107-13ad185374ff">
 
 
 
